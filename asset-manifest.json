@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pixabay-Image-Finder/static/css/main.cb5ae34f.chunk.css",
+    "main.js": "/Pixabay-Image-Finder/static/js/main.9bccbc57.chunk.js",
+    "main.js.map": "/Pixabay-Image-Finder/static/js/main.9bccbc57.chunk.js.map",
+    "runtime~main.js": "/Pixabay-Image-Finder/static/js/runtime~main.0cdd5ee9.js",
+    "runtime~main.js.map": "/Pixabay-Image-Finder/static/js/runtime~main.0cdd5ee9.js.map",
+    "static/js/2.207df10c.chunk.js": "/Pixabay-Image-Finder/static/js/2.207df10c.chunk.js",
+    "static/js/2.207df10c.chunk.js.map": "/Pixabay-Image-Finder/static/js/2.207df10c.chunk.js.map",
+    "index.html": "/Pixabay-Image-Finder/index.html",
+    "precache-manifest.68a01c649dd4a9a3f5ec4ef73944eaa9.js": "/Pixabay-Image-Finder/precache-manifest.68a01c649dd4a9a3f5ec4ef73944eaa9.js",
+    "service-worker.js": "/Pixabay-Image-Finder/service-worker.js",
+    "static/css/main.cb5ae34f.chunk.css.map": "/Pixabay-Image-Finder/static/css/main.cb5ae34f.chunk.css.map"
+  }
+}
